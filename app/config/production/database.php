@@ -25,7 +25,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'gowithme',
 			'username'  => 'root',
-			'password'  => 'cocacola',
+			'password'  => '5b810602d2929508',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
